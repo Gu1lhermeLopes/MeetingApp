@@ -1,0 +1,10 @@
+/home/gui/ies/IES_103896/lab3/lab3_3/quote-api-mysql/src/main/java/api/model/Movie.java
+/home/gui/ies/IES_103896/lab3/lab3_3/quote-api-mysql/src/main/java/api/exception/ControllerExceptionHandler.java
+/home/gui/ies/IES_103896/lab3/lab3_3/quote-api-mysql/src/main/java/api/exception/ResourceNotFoundException.java
+/home/gui/ies/IES_103896/lab3/lab3_3/quote-api-mysql/src/main/java/api/controller/QuoteController.java
+/home/gui/ies/IES_103896/lab3/lab3_3/quote-api-mysql/src/main/java/api/App.java
+/home/gui/ies/IES_103896/lab3/lab3_3/quote-api-mysql/src/main/java/api/model/Quote.java
+/home/gui/ies/IES_103896/lab3/lab3_3/quote-api-mysql/src/main/java/api/exception/ErrorMessage.java
+/home/gui/ies/IES_103896/lab3/lab3_3/quote-api-mysql/src/main/java/api/repository/QuoteRepository.java
+/home/gui/ies/IES_103896/lab3/lab3_3/quote-api-mysql/src/main/java/api/repository/MovieRepository.java
+/home/gui/ies/IES_103896/lab3/lab3_3/quote-api-mysql/src/main/java/api/service/ApiService.java
